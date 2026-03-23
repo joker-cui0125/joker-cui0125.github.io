@@ -1,20 +1,17 @@
 [![XX](https://img.shields.io/badge/XX-github-blue?logo=github)](https://github.com/XX)
 
-I'm currently pursuing a Master's degree in XX at the Department of XX, XX University, XX.
+I'm currently pursuing a Master's degree at Qilu University of Technology in Jinan, Shandong Province.
 
 #### Email  
-<code>XX@XX.XX</code>  
-<code>XX@XX.XX</code>
+<code>10431250264@stu.qlu.cn</code>  
+<code>19588933528@163.com</code>
 
 #### Education  
-**XX University**, Master of XX (XX – XX)  
-• GPA: XX/XX  
+**Qilu University of Technology**, Bachelor of Financial Technology (2021.09 – 2025.06)  
+• GPA: 4.42/5.00  
 
-**XX University**, Exchange student <br>  
-• As a XX, represented my college as an outstanding student for a XX exchange program.  
+**Qilu University of Technology**, Master of Computer Science (2025.09 – Present)  
 
-**XX University**, Honours Bachelor of XX (XX – XX)  
-• GPA: XX/XX (top XX%)  
 
 #### Research Interests  
-XX, XX, XX, XX.
+Deep Learning, Computer Vision, Medical Image Reconstruction.
